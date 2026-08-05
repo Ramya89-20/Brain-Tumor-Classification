@@ -2,6 +2,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 **🧠 Brain Tumor Classification using CNN**
 
 A Deep Learning project that classifies brain MRI images into four categories using a Convolutional Neural Network (CNN).
