@@ -29,3 +29,10 @@ Note: This project is intended for educational and research purposes only. It is
 - Scikit-learn
 - Matplotlib
 - Jupyter Notebook
+
+
+## 📸 Application Preview
+
+<p align="center">
+  <img src="images/app_demo.png" alt="Brain Tumor Classification App" width="800">
+</p>
