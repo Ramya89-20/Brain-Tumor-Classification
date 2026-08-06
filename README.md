@@ -7,6 +7,10 @@
 
 A Deep Learning project that classifies brain MRI images into four categories using a Convolutional Neural Network (CNN).
 
+## 🚀 Live Demo
+
+https://brain-tumor-classification.streamlit.app
+
 **📌 Project Overview**
 
 This project uses MRI brain scan images to classify tumors into one of four classes:
