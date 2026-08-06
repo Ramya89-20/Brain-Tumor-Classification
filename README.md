@@ -34,5 +34,5 @@ Note: This project is intended for educational and research purposes only. It is
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="images/app_demo.png" alt="Brain Tumor Classification App" width="800">
+  <img src="imagesapp_demo.png" alt="Brain Tumor Classification App" width="800">
 </p>
