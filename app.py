@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-model = tf.keras.models.load_model("brain_tumor_model.keras")
+model = tf.keras.models.load_model("brain_tumor_model.h5")
 
 labels = [
     "Glioma Tumor",
