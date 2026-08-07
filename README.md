@@ -9,7 +9,7 @@ A Deep Learning project that classifies brain MRI images into four categories us
 
 ## 🚀 Live Demo
 
-https://brain-tumor-classification.streamlit.app
+[https://brain-tumor-classification.streamlit.app](https://brain-tumor-classification-1.streamlit.app/)
 
 **📌 Project Overview**
 
